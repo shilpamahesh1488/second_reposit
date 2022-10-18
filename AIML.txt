@@ -1,0 +1,2 @@
+today we learnt git & git hub essentials to maintain our daily work 
+git is the version control system.
